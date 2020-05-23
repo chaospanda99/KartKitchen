@@ -1,2 +1,0 @@
-# KartKitchen
-Kart Kitchen Repository
